@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\class material\major\Windows programming (C#)\과제 전용 프로젝트 폴더\201601639_자유낙하게임\obj\Debug\201601639_자유낙하게임.csprojAssemblyReference.cache
+C:\Users\user\Desktop\class material\major\Windows programming (C#)\과제 전용 프로젝트 폴더\201601639_자유낙하게임\obj\Debug\_201601639_자유낙하게임.Form1.resources
+C:\Users\user\Desktop\class material\major\Windows programming (C#)\과제 전용 프로젝트 폴더\201601639_자유낙하게임\obj\Debug\_201601639_자유낙하게임.Properties.Resources.resources
+C:\Users\user\Desktop\class material\major\Windows programming (C#)\과제 전용 프로젝트 폴더\201601639_자유낙하게임\obj\Debug\201601639_자유낙하게임.csproj.GenerateResource.cache
+C:\Users\user\Desktop\class material\major\Windows programming (C#)\과제 전용 프로젝트 폴더\201601639_자유낙하게임\bin\Debug\201601639_자유낙하게임.exe.config
+C:\Users\user\Desktop\class material\major\Windows programming (C#)\과제 전용 프로젝트 폴더\201601639_자유낙하게임\bin\Debug\201601639_자유낙하게임.exe
+C:\Users\user\Desktop\class material\major\Windows programming (C#)\과제 전용 프로젝트 폴더\201601639_자유낙하게임\bin\Debug\201601639_자유낙하게임.pdb
+C:\Users\user\Desktop\class material\major\Windows programming (C#)\과제 전용 프로젝트 폴더\201601639_자유낙하게임\obj\Debug\201601639_자유낙하게임.exe
+C:\Users\user\Desktop\class material\major\Windows programming (C#)\과제 전용 프로젝트 폴더\201601639_자유낙하게임\obj\Debug\201601639_자유낙하게임.pdb
