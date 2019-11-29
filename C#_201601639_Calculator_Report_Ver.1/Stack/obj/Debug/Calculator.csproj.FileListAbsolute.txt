@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\class material\major\Windows programming (C#)\Week 13\Stack\bin\Debug\Stack.dll
+C:\Users\user\Desktop\class material\major\Windows programming (C#)\Week 13\Stack\bin\Debug\Stack.pdb
+C:\Users\user\Desktop\class material\major\Windows programming (C#)\Week 13\Stack\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\user\Desktop\class material\major\Windows programming (C#)\Week 13\Stack\obj\Debug\Stack.dll
+C:\Users\user\Desktop\class material\major\Windows programming (C#)\Week 13\Stack\obj\Debug\Stack.pdb
