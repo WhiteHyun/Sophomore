@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Computer Programming\GitHub\Sophomore-2nd-Semester\201601639_Calculate_Notdll\bin\Debug\201601639_Calculate_Notdll.exe.config
+C:\Users\user\Desktop\Computer Programming\GitHub\Sophomore-2nd-Semester\201601639_Calculate_Notdll\bin\Debug\201601639_Calculate_Notdll.exe
+C:\Users\user\Desktop\Computer Programming\GitHub\Sophomore-2nd-Semester\201601639_Calculate_Notdll\bin\Debug\201601639_Calculate_Notdll.pdb
+C:\Users\user\Desktop\Computer Programming\GitHub\Sophomore-2nd-Semester\201601639_Calculate_Notdll\obj\Debug\201601639_Calculate_Notdll.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Computer Programming\GitHub\Sophomore-2nd-Semester\201601639_Calculate_Notdll\obj\Debug\_201601639_Calculate_Notdll.Properties.Resources.resources
+C:\Users\user\Desktop\Computer Programming\GitHub\Sophomore-2nd-Semester\201601639_Calculate_Notdll\obj\Debug\201601639_Calculate_Notdll.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Computer Programming\GitHub\Sophomore-2nd-Semester\201601639_Calculate_Notdll\obj\Debug\201601639_Calculate_Notdll.exe
+C:\Users\user\Desktop\Computer Programming\GitHub\Sophomore-2nd-Semester\201601639_Calculate_Notdll\obj\Debug\201601639_Calculate_Notdll.pdb
