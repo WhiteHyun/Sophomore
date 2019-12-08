@@ -1,4 +1,0 @@
-﻿  Manager.cpp
-C:\Users\user\Desktop\class material\major\C++ Language\프로그래밍 과제 ~12.2일까지\Project Report\Manager.cpp(249,32): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\user\Desktop\class material\major\C++ Language\프로그래밍 과제 ~12.2일까지\Project Report\Manager.cpp(412,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Project Report.vcxproj -> C:\Users\user\Desktop\class material\major\C++ Language\프로그래밍 과제 ~12.2일까지\Project Report\x64\Debug\Project Report.exe
