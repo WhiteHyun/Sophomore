@@ -1,9 +1,0 @@
-C:\Users\user\Desktop\class material\major\Windows programming (C#)\과제 전용 프로젝트 폴더\201601639_RandomProject\obj\Debug\201601639_RandomProject.csprojAssemblyReference.cache
-C:\Users\user\Desktop\class material\major\Windows programming (C#)\과제 전용 프로젝트 폴더\201601639_RandomProject\obj\Debug\_201601639_RandomProject.Properties.Resources.resources
-C:\Users\user\Desktop\class material\major\Windows programming (C#)\과제 전용 프로젝트 폴더\201601639_RandomProject\obj\Debug\201601639_RandomProject.csproj.GenerateResource.cache
-C:\Users\user\Desktop\class material\major\Windows programming (C#)\과제 전용 프로젝트 폴더\201601639_RandomProject\bin\Debug\201601639_RandomProject.exe.config
-C:\Users\user\Desktop\class material\major\Windows programming (C#)\과제 전용 프로젝트 폴더\201601639_RandomProject\bin\Debug\201601639_RandomProject.exe
-C:\Users\user\Desktop\class material\major\Windows programming (C#)\과제 전용 프로젝트 폴더\201601639_RandomProject\bin\Debug\201601639_RandomProject.pdb
-C:\Users\user\Desktop\class material\major\Windows programming (C#)\과제 전용 프로젝트 폴더\201601639_RandomProject\obj\Debug\_201601639_RandomProject.HomeWork.resources
-C:\Users\user\Desktop\class material\major\Windows programming (C#)\과제 전용 프로젝트 폴더\201601639_RandomProject\obj\Debug\201601639_RandomProject.exe
-C:\Users\user\Desktop\class material\major\Windows programming (C#)\과제 전용 프로젝트 폴더\201601639_RandomProject\obj\Debug\201601639_RandomProject.pdb

@@ -1,7 +1,0 @@
-C:\Users\user\Desktop\class material\major\Windows programming (C#)\Week 13\Calculate\bin\Debug\Calculate.dll
-C:\Users\user\Desktop\class material\major\Windows programming (C#)\Week 13\Calculate\bin\Debug\Calculate.pdb
-C:\Users\user\Desktop\class material\major\Windows programming (C#)\Week 13\Calculate\bin\Debug\Stack.dll
-C:\Users\user\Desktop\class material\major\Windows programming (C#)\Week 13\Calculate\obj\Debug\Calculator.csprojAssemblyReference.cache
-C:\Users\user\Desktop\class material\major\Windows programming (C#)\Week 13\Calculate\obj\Debug\Calculator.csproj.CopyComplete
-C:\Users\user\Desktop\class material\major\Windows programming (C#)\Week 13\Calculate\obj\Debug\Calculate.dll
-C:\Users\user\Desktop\class material\major\Windows programming (C#)\Week 13\Calculate\obj\Debug\Calculate.pdb
