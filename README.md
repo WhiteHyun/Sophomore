@@ -1,2 +1,3 @@
 # Sophomore-2nd-Semester
-It's a class that I learn when I was a sophomore in university
+
+2학년 과제 정리본
