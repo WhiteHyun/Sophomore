@@ -12,6 +12,5 @@ int main(int argc, const char* argv[]) {
     /* 은행 업무 본격 개시! */
     process();
     
-    printf("%d\n", (3 < 5));
     return 0;
 }
