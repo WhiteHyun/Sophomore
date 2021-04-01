@@ -56,8 +56,11 @@ void adjustBank(Bank* bank) {
 }
 
 void bankProgress(Bank* bank) {
+    ATM* atm = NULL;
+    Customer* tempCustomer = NULL;
+    Customer* loopCustomer = NULL;
     for (int i = 0; i < ATM_SIZE; i++) {
-        ATM* atm = &bank->atm[i];
+        atm = &bank->atm[i];
         /* ATM에 사람이 없거나 고객의 업무가 다 끝난 경우 */
         if (atm->serviceCustomer == NULL || atm->serviceCustomer->takeTime == 0) {
             // 기존 고객의 업무가 다 끝났을 경우였다면
@@ -79,11 +82,16 @@ void bankProgress(Bank* bank) {
         }
         // 10분 단위로 소수인 사람들이 떠남
         if (minute % 10 == 0) {
-            for (Customer* tempCustomer = atm->frontCustomer; tempCustomer != NULL; tempCustomer = tempCustomer->back) {
+            loopCustomer = atm->frontCustomer;
+            while (loopCustomer != NULL) {
+                tempCustomer = loopCustomer;
                 if (isPrimeNumber(tempCustomer->ticket)) {
                     bank->totalWaitingTime += tempCustomer->waitingTime;
                     bank->outheadedCustomer++;
+                    loopCustomer = loopCustomer->back;
                     quitCustomer(leaveATMCustomer(atm, tempCustomer));
+                } else {
+                    loopCustomer = loopCustomer->back;
                 }
             }
         }
