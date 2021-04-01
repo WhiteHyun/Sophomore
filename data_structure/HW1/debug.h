@@ -9,6 +9,9 @@
 #define debug_h
 #include <stdio.h>
 
+/**
+ * 정보에 대한 로그를 출력합니다.
+ */
 #define print_info(_fmt, ...) \
     fprintf(stdout, "[INFO] " _fmt, ##__VA_ARGS__)
 

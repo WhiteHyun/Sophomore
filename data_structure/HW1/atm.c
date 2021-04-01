@@ -64,8 +64,10 @@ Customer* getService(ATM* atm) {
 }
 
 Customer* leaveATMCustomer(ATM* atm, Customer* hotheadedCustomer) {
+    /* 애초에 NULL값이 들어간 변수를 파라미터로 넣진 않겠지만 혹시 모르니 넣어줍시다. */
     if (hotheadedCustomer == NULL) {
-        print_error("getCustomer: hotheadedCustomer is NULL!");
+        print_error("leaveATMCustomer: hotheadedCustomer is NULL!");
+        return NULL;
     }
     /* 앞 뒤에 고객들로 둘러쌓여있을 경우 */
     if (hotheadedCustomer->back != NULL && hotheadedCustomer->front != NULL) {

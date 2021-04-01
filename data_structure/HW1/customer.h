@@ -33,7 +33,7 @@ typedef struct _Customer {
  *      isPrimeNumber(23);
  *      >>> true
  */
-bool isPrimeNumber(int ticket);
+bool isPrimeNumber(const int ticket);
 
 /**
  * 고객이 들어왔습니다!
